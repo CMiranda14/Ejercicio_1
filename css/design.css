@@ -1,0 +1,63 @@
+/*Selector*/
+h1{
+    color: orangered; /*cambia el color del texto*/
+    text-align: center;/*centra el texto*/
+    font-size: 50px;/*cambia el tamaño del texto*/
+    font-family: sans-serif; /*cambia la fuente del texto*/ 
+    background-color:aqua;
+  }
+
+Body {
+       background-color: aquamarine;
+     }
+
+.img_fruta{
+              width: 300px; /*determina el ancho de una imagen*/
+              height: 700pox;/*altera la altura de la imagen*/
+              padding: 15px 0px 0px 600px;
+          }
+
+p{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+ }
+
+.listado_frutas{
+    color: blue;
+    font-size: 20px;
+    padding:15px 0px 0px 600px; 
+    
+    
+  }
+
+.listado_2{
+    color: darkviolet;
+    font-size: 20px;
+    padding:15px 0px 0px 600px; 
+    
+  }
+
+.tabla_1{
+       color: green;
+       text-align: center;
+       font-size: 30px;
+       margin: auto;
+    }
+
+a{
+    font-size: 20px;
+
+     
+ }
+*{
+    font-family: monospace;
+    margin:15px;
+    padding:0px;
+
+}
+
+.boton_1{
+    font-size:20px;
+}
+
